@@ -1,0 +1,34 @@
+tabela uniforme contendo os itens - id, nome , valor, preço min, preço max, quantidade
+
+tabela2 contendo data e registros de vendas - id, nome, valor, data, quantidadeVendida
+
+Listar todos os itens do bd, selecionar itens e quantidades de cada item a ser vendido 
+para então dar baixa no sistema.
+
+
+Colocar Aviso de estoque baixo
+
+Sistema de balanço de vendas
+
+soma todos os valores do registro e faz um balanço geral dos mesmos e apresentando tudo em uma página.
+
+Mostrar informações dos intens no estoque       nome
+						precoMAX
+						valor
+						precoMIN
+						quantidade
+
+Na pagina inicial criar botão Relatorio Mostrando informações por periodo do dia, semanal e mensal de cada módulo.
+
+
+
+
+
+Itens para doação.
+Contribuintes APM valor e periodo. Relatorio de contribuintes APM.
+
+Armarios Painel (locação), Cantina fechamento de caixa (com as formas de pagamento para todas os módulos), módulo para manutenção relatório de serviços
+
+Definir quantidade para aviso de estoque baixo, Contrato de armario (Dados do Contrato, Espelho do contrato(editavel), Protocolo), contribuintes ativos e inativos(Com status de pagamento por ano), Comunicação com código de barra (parte),Cartão de contribuinte.
+Editar itens no infoItens, possibilidade de escolher o periodo no modulo relatorios, descricao dos eventos.
+Quantidade 300

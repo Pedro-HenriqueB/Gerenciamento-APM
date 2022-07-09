@@ -1,0 +1,29 @@
+tabela uniforme contendo os itens - id, nome , valor, preço min, preço max, quantidade
+
+tabela2 contendo data e registros de vendas - id, nome, valor, data, quantidadeVendida
+
+Listar todos os itens do bd, selecionar itens e quantidades de cada item a ser vendido 
+para então dar baixa no sistema.
+
+
+Colocar Aviso de estoque baixo
+
+Sistema de balanço de vendas
+
+soma todos os valores do registro e faz um balanço geral dos mesmos e apresentando tudo em uma página.
+
+Mostrar informações dos intens no estoque       nome
+						precoMAX
+						valor
+						precoMIN
+						quantidade
+
+Se a operação for saida no valor de saída deve ser acrescentado a porcentagem de lucro para então salvar no bd(Mostrar valores Liquidos ou brutos?).
+
+CANTINA
+
+Criar coluna valorVenda e ValorCompra
+Problema na entrada e saida(Não pode conter espaços)
+Criar coluna valorVenda e ValorCompra no módulo de uniformes
+
+quantidade 300
